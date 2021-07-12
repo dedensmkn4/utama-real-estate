@@ -1,0 +1,14 @@
+com\utama\deden\reza\rest\web\model\response\HouseResponse$HouseResponseBuilder.class
+com\utama\deden\reza\rest\web\model\response\BookingResponse.class
+com\utama\deden\reza\rest\web\model\request\BookingRequest.class
+com\utama\deden\reza\rest\web\model\response\BaseResponse$BaseResponseBuilder.class
+com\utama\deden\reza\rest\web\model\response\BrokerResponse.class
+com\utama\deden\reza\rest\web\model\request\HouseRequest$HouseRequestBuilder.class
+com\utama\deden\reza\rest\web\model\request\BookingRequest$BookingRequestBuilder.class
+com\utama\deden\reza\rest\web\model\request\BrokerRequest.class
+com\utama\deden\reza\rest\web\model\response\HouseResponse.class
+com\utama\deden\reza\rest\web\model\response\BookingResponse$BookingResponseBuilder.class
+com\utama\deden\reza\rest\web\model\request\HouseRequest.class
+com\utama\deden\reza\rest\web\model\request\BrokerRequest$BrokerRequestBuilder.class
+com\utama\deden\reza\rest\web\model\response\BaseResponse.class
+com\utama\deden\reza\rest\web\model\response\BrokerResponse$BrokerResponseBuilder.class

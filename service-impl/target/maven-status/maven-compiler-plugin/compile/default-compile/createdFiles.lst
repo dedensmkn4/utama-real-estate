@@ -1,0 +1,4 @@
+com\utama\deden\reza\service\impl\configuration\ServiceConfiguration.class
+com\utama\deden\reza\service\impl\BookingServiceImpl.class
+com\utama\deden\reza\service\impl\BrokerServiceImpl.class
+com\utama\deden\reza\service\impl\HouseServiceImpl.class
